@@ -1,0 +1,1 @@
+export const logMessage = (message: string): void => console.log(`[INFO] ${message}`);
